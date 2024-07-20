@@ -1,7 +1,7 @@
-build
-dist
-faces
-fotos
-venv
+/build
+/dist
+/faces
+/fotos
+/venv
 
 *.spec
