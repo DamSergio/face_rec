@@ -36,20 +36,6 @@ Antes de ejecutar el script, asegúrate de tener instalados los siguientes paque
 
 3. **Instala los paquetes de python**
 
-```bash
-pip install -r requirements.txt
-```
-
-## Instalacion para uso
-
-1. **Descargar el archivo face_rec.exe**
-
-2. **Añadir el archivo face_rec al path del sistema**
-
-## Uso
-
-1. **Abra el cmd dentro de la carpeta de sus imagenes y escriba el comando**
-
-```bash
-face_rec
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
