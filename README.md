@@ -20,7 +20,7 @@ Antes de ejecutar el script, asegúrate de tener instalados los siguientes paque
 3. `opencv-python` (opcional, si se usa para la visualización o procesamiento adicional)
 4. `tkinter` (para la interfaz gráfica emergente para ingresar nombres)
 
-## Instalación para modificarlo
+## Instalación
 
 1. **Instala CMake y Visual Studio** (si estás en Windows):
 
